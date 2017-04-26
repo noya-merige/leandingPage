@@ -1,0 +1,56 @@
+body {
+    direction: rtl;
+    background-image: url('../images/background.jpg');
+    width: 960px;
+    margin: 0 auto;
+    background-size:1400px 650px;
+    background-repeat: no-repeat;
+    background-position:top;
+
+}
+
+header h1{
+    color: #025e62;
+    margin-top: 120px;
+    margin-right: 280px;
+    font-size: 30pt;
+    display: inline-block;
+  
+}
+
+section{
+    background-color: #cad6d7;
+    width: 400px;
+    height:250px;
+    margin-right: 550px;
+    margin-top: 60px;
+    padding: 10px;
+    border-radius: 15px 15px;
+    display: inline-block;
+}
+
+    section h2 {
+        font-family: 'Gveret Levin AlefAlefAlef';
+        font-size: 20pt;
+        text-align: center;
+    }
+
+    section h3{
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    section p {
+        margin-top: 15px;
+    }
+
+    #details {
+        margin-right: 1px;
+        margin-top: 60px;
+        display: inline-block;
+        font-family: 'Gveret Levin AlefAlefAlef';
+        font-size: 16pt;
+        
+    }
+
+ 
